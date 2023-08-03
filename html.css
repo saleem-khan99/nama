@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+button{
+    background-color: black;
+    color: aqua;
+    border: solid rgb(244, 8, 8) 2px;
+    padding: 4px;
+    width: 60px;
+}
+body{
+    background-image: url(vv.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: azure;
+    background-color: #370606;
+    height: 50px;
+}
+h2{
+    text-align: center;
+    color: beige;
+}
+
+#outp{
+    color: aqua;
+    font-size: 50px;
+}
+div{
+    margin-left: 42%;
+}
